@@ -1,0 +1,17 @@
+You will be given two numbers stored in variables 'a' and 'b'. Your task is to swap the values present and print them.
+
+Example
+
+____________________________________________________________________________
+input: 
+ 4 5
+
+output: 
+ 5 4
+
+____________________________________________________________________________
+input: 
+ -3 -2
+
+output: 
+ -2 -3

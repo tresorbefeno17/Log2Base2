@@ -1,0 +1,17 @@
+You will be given two numbers 'N' and 'X'. Your task is to check whether 'X' is a factor of 'N'.
+
+Example
+
+____________________________________________________________________________
+input: 
+ 10 2
+
+output: 
+ Yes
+
+____________________________________________________________________________
+input: 
+ 10 3
+
+output: 
+ No
