@@ -1,0 +1,17 @@
+You will be given a string 'str'. Your task is to find the length of 'str' without using strlen() function and print it.
+
+Example
+
+____________________________________________________________________________
+input: 
+ language
+
+output: 
+ 8
+
+____________________________________________________________________________
+input: 
+ program
+
+output: 
+ 7
