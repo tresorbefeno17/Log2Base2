@@ -1,0 +1,26 @@
+You will be given two string 'str1' and 'str2'. Your task is to check if they are equals without using strcmp() function.
+
+Example
+
+____________________________________________________________________________
+input: 
+ cake cake
+
+output: 
+ Yes
+
+____________________________________________________________________________
+input: 
+ god dog
+
+output: 
+ No
+
+
+
+Test Case
+	cake cake
+	god dog
+	package a
+	b computer
+	aba aba
