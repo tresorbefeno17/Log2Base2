@@ -1,0 +1,25 @@
+You will be given a string 'str'. Your task is to find the number of vowel(s) in it.
+
+Example
+
+____________________________________________________________________________
+input: 
+ loop
+
+output: 
+ 2
+
+____________________________________________________________________________
+input: 
+ fly
+
+output: 
+ 0
+
+
+Test Case
+	loop
+	fly
+	cricket
+	adieu
+	automobile
