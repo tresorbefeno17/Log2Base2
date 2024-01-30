@@ -11,7 +11,7 @@ int main()
     number = num;
     if (num < 10)
     {
-        if (num == 0 || num == 1)
+        if (num == 1)
             printf("Armstrong number");
         else
             printf("Not Armstrong number");
