@@ -1,0 +1,25 @@
+ou will be given a number 'N'. Your task is to calculate the sum of its digits.
+
+Example
+
+----------------------------------------------------------------------------
+input: 
+ 12
+
+output: 
+ 3
+
+----------------------------------------------------------------------------
+input: 
+ 345
+
+output: 
+ 12
+
+
+
+Test case:
+	12
+	345
+	1000
+	3
