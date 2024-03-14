@@ -1,0 +1,27 @@
+You will be given three string 'str1', 'str2' and 'str3'. Your task is to concatenate the two firts string into the last one.
+
+Example
+
+----------------------------------------------------------------------------
+input: 
+ test case
+
+output: 
+ testcase
+
+----------------------------------------------------------------------------
+input: 
+ program mable
+
+output: 
+ programmable
+
+
+
+
+Test case :
+	test case
+	program mable
+	chat bot
+	corner kick
+	bulk y
