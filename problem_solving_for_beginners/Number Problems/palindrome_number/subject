@@ -1,0 +1,26 @@
+You will be given a number 'num'. Your task is to check whether 'num' is a palindrome number or not.
+
+Example
+
+----------------------------------------------------------------------------
+input: 
+ 121
+
+output: 
+ Palindrome
+
+----------------------------------------------------------------------------
+input: 
+ 345
+
+output: 
+ Not Palindrome
+
+
+
+Test case :
+	121
+	345
+	4123214
+	666
+	4
