@@ -1,0 +1,26 @@
+You will be given a number 'num'. Your task is to reverse the digits of the number.
+
+Example
+
+----------------------------------------------------------------------------
+input: 
+ 451
+
+output: 
+ 154
+
+----------------------------------------------------------------------------
+input: 
+ 300
+
+output: 
+ 3
+
+
+
+Test case :
+	451
+	300
+	7
+	666
+	221
