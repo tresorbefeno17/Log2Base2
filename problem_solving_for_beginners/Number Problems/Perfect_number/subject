@@ -1,0 +1,18 @@
+You will be given a number 'num'. Your task is to check if 'num' is a perfect number or not.
+
+Example
+
+----------------------------------------------------------------------------
+input: 
+ 28
+
+output: 
+ Yes
+
+
+----------------------------------------------------------------------------
+input: 
+ 100
+
+output: 
+ No
