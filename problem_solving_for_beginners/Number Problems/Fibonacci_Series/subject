@@ -1,0 +1,27 @@
+You will be given a number 'num'. Your task is to find the n first integers of the Fibonacci series.
+
+
+Example
+
+----------------------------------------------------------------------------
+input: 
+ 4
+
+output: 
+ 0 1 1 2
+
+----------------------------------------------------------------------------
+input: 
+ 5
+
+output: 
+ 0 1 1 2 3
+
+
+
+Test case :
+	4
+	5
+	1
+	7
+	2
