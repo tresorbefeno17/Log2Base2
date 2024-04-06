@@ -1,0 +1,26 @@
+You will be given an integer array 'arr' and an integer 'key'. Your task is to search 'key' in 'arr' and print the search result.
+
+Example
+
+----------------------------------------------------------------------------
+input: 
+ 3 10 20 30 20
+
+output: 
+ Key found
+
+----------------------------------------------------------------------------
+input: 
+ 4 2 4 5 7 6
+
+output: 
+ Key not found
+
+
+
+Test case :
+	3 10 20 30 20
+	4 2 4 5 7 6
+	4 1 2 3 4 4
+	1 100 50 
+	2 20 20 20
