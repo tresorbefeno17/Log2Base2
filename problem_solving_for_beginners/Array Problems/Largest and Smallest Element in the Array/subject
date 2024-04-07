@@ -1,0 +1,29 @@
+You will be given an integer array 'arr'. Your task is to find the largest and the smallest element int the array.
+
+
+Example
+
+----------------------------------------------------------------------------
+input: 
+ 5 8 10 3 2 6
+
+output: 
+Max = 10
+Min = 2
+
+----------------------------------------------------------------------------
+input: 
+ 6 100 56 74 2 99 44
+
+output: 
+Max = 100
+Min = 2
+
+
+
+Test case :
+	5 8 10 3 2 6
+	6 100 56 74 2 99 44
+	4 -99 0 100 -3
+	5 -2 -4 -6 -8 -10
+	4 10 0 0 0
