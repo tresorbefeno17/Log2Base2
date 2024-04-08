@@ -1,0 +1,26 @@
+You will be given a string 'str'. Your task is to copy 'str' without using strcpy() function.
+
+Example
+
+____________________________________________________________________________
+input: 
+ input
+
+output: 
+ Copied string = input
+
+____________________________________________________________________________
+input: 
+ animal
+
+output: 
+ Copied string = animal
+
+
+
+Test Case	
+	input
+	animal
+	peacock
+	pulley
+	pop
