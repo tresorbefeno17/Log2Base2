@@ -1,0 +1,26 @@
+You will be given a string 'str'. Your task is to convert all uppercase letters to lowercase and all lowercase letters to uppercase and print it.
+
+Example
+
+----------------------------------------------------------------------------
+input: 
+ HEllO
+
+output: 
+ heLLo
+
+----------------------------------------------------------------------------
+input: 
+ DRIVINg
+
+output: 
+ drivinG
+
+
+
+Test case :
+	HEllO
+	DRIVINg
+	white
+	bankING
+	BiNgO
