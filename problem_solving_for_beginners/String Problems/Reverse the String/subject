@@ -1,0 +1,26 @@
+You will be given a string 'str'. Your task is to reverse 'str' and print it.
+
+Example
+
+----------------------------------------------------------------------------
+input: 
+ flipkart
+
+output: 
+ trakpilf
+
+----------------------------------------------------------------------------
+input: 
+ backdrop
+
+output: 
+ dordkcab
+
+
+
+Test case :
+	flipkart
+	backdrop
+	pot
+	stump
+	b
