@@ -1,0 +1,26 @@
+You will be given a string 'str'. Your task is to check if 'str' is palindrome or not. 
+
+Example
+
+----------------------------------------------------------------------------
+input: 
+ abcde
+
+output: 
+ Not Palindrome 
+
+----------------------------------------------------------------------------
+input: 
+radar
+
+output: 
+Palindrome 
+
+
+
+Test case :
+	abcde
+	radar
+	madam
+	clock
+	ababa
